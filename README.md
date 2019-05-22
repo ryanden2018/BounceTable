@@ -1,6 +1,6 @@
 # BounceTable
 
-A Java program that simulates a bounce table.
+A Java program that simulates a simple mathematical billiard table.
 
 To compile and run, you will need the Java JDK. The command to compile is
 
